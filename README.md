@@ -1,10 +1,9 @@
 ### Hi im ccadmin 👋
 
 <!--
-**ccadmin1/ccadmin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ccadmin1&theme=highcontrast" align="center">
-</p>
+[![ccadmin1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccadmin1)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/ccadmin1/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
