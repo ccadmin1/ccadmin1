@@ -13,4 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccadmin1&layout=compact)](https://github.com/ccadmin1/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=ccadmin1&color=blueviolet&style=flat) 
+!(https://komarev.com/ghpvc/?username=ccadmin1&color=blueviolet&style=flat) 
