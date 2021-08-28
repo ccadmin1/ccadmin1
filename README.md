@@ -1,8 +1,7 @@
 ### Hi im ccadmin 👋
 
-<!--
+
 [![ccadmin1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccadmin1)](https://github.com/anuraghazra/github-readme-stats)
-)](https://github.com/ccadmin1/github-readme-stats)
 
 Here are some ideas to get you started:
 
