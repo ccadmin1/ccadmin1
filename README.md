@@ -3,6 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐇𝐞𝐥𝐥𝐨+𝐭𝐡𝐞𝐫𝐞+𝐟𝐞𝐥𝐥𝐨𝐰+<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!)](https://git.io/typing-svg)
 [![telegram badge](https://img.shields.io/badge/I'mDhamu-30302f?style=flat&logo=telegram)](https://t.me/Dhashamoolam_dhamu)
 
+```
+Iam Not A Programmer... 
+Iam a Noob... 🤕🤕.
+I'm now Focusing on Python and Studies.
+```
   <div align="center" width="50">
 
 <img src="https://github.com/ccadmin1/ccadmin1/blob/main/java-hacking-gif.gif" alt="Welcome!" width="300"/>
