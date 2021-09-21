@@ -7,7 +7,7 @@
 
 </div>
   
-  
+  <img src="https://badgen.net/badge/Python/✔/blue?icon=terminal&labelColor=EE0823">&nbsp; <img src="https://badgen.net/badge/C++/✔/blue?icon=terminal&labelColor=EE0823">
 
 [![DhashamoolamDhamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccadmin1&theme=chartreuse-dark)](https://github.com/ccadmin1/github-readme-stats)
 
