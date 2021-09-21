@@ -17,3 +17,4 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+noob+cloner;and+I'm+just+learning)](https://git.io/typing-svg)
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
