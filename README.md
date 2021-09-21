@@ -7,13 +7,16 @@
 
 </div>
   
-  <img src="https://badgen.net/badge/Python/✔/blue?icon=terminal&labelColor=EE0823">&nbsp; <img src="https://badgen.net/badge/C++/✔/blue?icon=terminal&labelColor=EE0823">
+  <img src="https://badgen.net/badge/Python/✔/blue?icon=terminal&labelColor=EE0823">
 
 [![DhashamoolamDhamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccadmin1&theme=chartreuse-dark)](https://github.com/ccadmin1/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccadmin1&layout=compact)](https://github.com/ccadmin1/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=ccadmin1&color=blueviolet&style=flat) 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccadmin1&" alt="ccadmin1" /></p>
+
 
 <h3 align="left">🔨 LANGUAGES AND TOOLS :</h3>
 <p align="left">
@@ -54,7 +57,6 @@
     </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccadmin1&" alt="ccadmin1" /></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+noob+cloner;and+I'm+just+learning)](https://git.io/typing-svg)
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
