@@ -16,5 +16,7 @@
 ![](https://komarev.com/ghpvc/?username=ccadmin1&color=blueviolet&style=flat) 
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccadmin1&" alt="ccadmin1" /></p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+noob+cloner;and+I'm+just+learning)](https://git.io/typing-svg)
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
