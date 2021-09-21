@@ -15,6 +15,44 @@
 
 ![](https://komarev.com/ghpvc/?username=ccadmin1&color=blueviolet&style=flat) 
 
+<h3 align="left">🔨 LANGUAGES AND TOOLS :</h3>
+<p align="left">
+    <a href="https://www.python.org" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python"
+        />
+    </a>
+    <a href="https://html.spec.whatwg.org/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/HTML-black?&style=for-the-badge&logo=html5"
+        />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Git-black?&style=for-the-badge&logo=git&logoColor=red"
+        />
+    </a>
+    <a href="https://github.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
+        />
+    </a>
+    <a href="https://mongodb.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"
+        />
+    </a>
+    <a href="https://daringfireball.net/projects/markdown/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
+        />
+    </a>
+    <a href="https://json.org" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Json-black?&style=for-the-badge&logo=json"
+        />
+    </a>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccadmin1&" alt="ccadmin1" /></p>
 
