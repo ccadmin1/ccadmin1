@@ -1,5 +1,7 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ccadmin1/ccadmin1/blob/main/java-hacking-gif.gif" width="30px">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐇𝐞𝐥𝐥𝐨+𝐭𝐡𝐞𝐫𝐞+𝐟𝐞𝐥𝐥𝐨𝐰+<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!)](https://git.io/typing-svg)
+[![telegram badge](https://img.shields.io/badge/I'mDhamu-30302f?style=flat&logo=telegram)](https://t.me/Dhashamoolam_dhamu)
 
   <div align="center" width="50">
 
@@ -58,5 +60,4 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+noob+cloner;and+I'm+just+learning)](https://git.io/typing-svg)
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
