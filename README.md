@@ -37,9 +37,9 @@ I'm now Focusing on Python and Studies.
             src="https://img.shields.io/badge/HTML-black?&style=for-the-badge&logo=html5"
         />
     </a>
-    <a href="https://git-scm.com/" target="_blank">
+    <a href="https://heroku.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/Git-black?&style=for-the-badge&logo=git&logoColor=red"
+            src="https://img.shields.io/badge/Heroku-black?&style=for-the-badge&logo=git&logoColor=red"
         />
     </a>
     <a href="https://github.com/" target="_blank">
