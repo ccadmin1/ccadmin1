@@ -3,6 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐇𝐞𝐥𝐥𝐨+𝐭𝐡𝐞𝐫𝐞+𝐟𝐞𝐥𝐥𝐨𝐰+<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!)](https://git.io/typing-svg)
 [![telegram badge](https://img.shields.io/badge/I'mDhamu-30302f?style=flat&logo=telegram)](https://t.me/Dhashamoolam_dhamu)
 
+[<p align="center">
+<img src="https://telegra.ph/file/8abe16616c3c1e853b700.png">](https://telegram.dog/DhashamoolamDhamu)
+
+
 ```
 Iam Not A Programmer... 
 Iam a Noob... 🤕🤕.
