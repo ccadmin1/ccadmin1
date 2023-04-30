@@ -66,6 +66,11 @@ I'm now Focusing on Python and Studies.
             src="https://img.shields.io/badge/Json-black?&style=for-the-badge&logo=json"
         />
     </a>
+    <a href="https://react.dev" target="_blank">
+        <img
+            src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+        />
+    </a>
 </p>
 
 
