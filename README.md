@@ -18,7 +18,7 @@ I'm now Focusing on Python and Studies.
 
 </div>
   
-  <img src="https://badgen.net/badge/Python/✔/blue?icon=terminal&labelColor=EE0823">
+<!--   <img src="https://badgen.net/badge/Python/✔/blue?icon=terminal&labelColor=EE0823"> -->
 
 [![DhashamoolamDhamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccadmin1&theme=chartreuse-dark)](https://github.com/ccadmin1/github-readme-stats)
 
