@@ -8,9 +8,7 @@
 
 
 ```
-Iam Not A Programmer... 
-Iam a Noob... 🤕🤕.
-I'm now Focusing on Python and Studies.
+... 
 ```
   <div align="center" width="50">
 
